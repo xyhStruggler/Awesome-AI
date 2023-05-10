@@ -14,6 +14,7 @@ https://promptbase.com/ (卖咒语)
   
 # LLM
 https://code-as-policies.github.io/ (Code as Policies: Language Model Programs for Embodied Control)  
+https://imagebind.metademolab.com/ (多模态场景AI)
   
 # Image & Videos Generator
 https://midjourney.com (midjourney官网)  
