@@ -11,6 +11,7 @@ https://www.microsoft.com/en-us/research/group/autonomous-systems-group-robotics
 https://github.com/f/awesome-chatgpt-prompts (Prompts)  
 https://github.com/PlexPt/awesome-chatgpt-prompts-zh (Prompts in Chinese)  
 https://promptbase.com/ (卖咒语)  
+https://github.com/OpenAPITools/openapi-generator （OpenAPI 生成器允许在给定 OpenAPI 规范（v2、v3）的情况下自动生成 API 客户端库（SDK 生成）、服务器存根、文档和配置）  
   
 # LLM
 https://code-as-policies.github.io/ (Code as Policies: Language Model Programs for Embodied Control)  
