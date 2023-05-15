@@ -16,11 +16,17 @@ https://github.com/OpenAPITools/openapi-generator （OpenAPI 生成器允许在�
 # LLM
 https://code-as-policies.github.io/ (Code as Policies: Language Model Programs for Embodied Control)  
 https://imagebind.metademolab.com/ (多模态场景AI)
+https://github.com/Hannibal046/Awesome-LLM （大型语言模型的精选列表）  
+https://github.com/GT-RIPL/Awesome-LLM-Robotics （机器人控制语言模型）
   
 # Image & Videos Generator
+https://github.com/hua1995116/awesome-ai-painting （AI绘画资料合集）  
 https://midjourney.com (midjourney官网)  
 https://stablediffusionweb.com/#demo (Stable Diffusion官方网页版)  
 https://clipdrop.co/ (图片)  
 https://runwayml.com (视频和图片)  
 https://beta.tome.app (PPT)
+
+# AI Courses
+https://github.com/owainlewis/awesome-artificial-intelligence （人工智能 (AI) 课程、书籍、视频讲座和论文的精选列表）  
 
