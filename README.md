@@ -27,7 +27,8 @@ https://stablediffusionweb.com/#demo (Stable Diffusion官方网页版)
 https://clipdrop.co/ (图片)  
 https://runwayml.com (视频和图片)  
 https://beta.tome.app (PPT)  
-https://vcai.mpi-inf.mpg.de/projects/DragGAN/ (DragGAN)
+https://vcai.mpi-inf.mpg.de/projects/DragGAN/ (DragGAN)  
+https://github.com/XingangPan/DragGAN （DragGAN GitHub）  
 
 # AI Courses
 https://github.com/owainlewis/awesome-artificial-intelligence （人工智能 (AI) 课程、书籍、视频讲座和论文的精选列表）  
