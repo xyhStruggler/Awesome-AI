@@ -16,6 +16,7 @@ https://github.com/OpenAPITools/openapi-generator （OpenAPI 生成器允许在�
   
 # LLM
 https://code-as-policies.github.io/ (Code as Policies: Language Model Programs for Embodied Control)  
+https://palm-e.github.io/#demo （Google PALM-E具身人工智能）
 https://imagebind.metademolab.com/ (多模态场景AI)  
 https://github.com/Hannibal046/Awesome-LLM （大型语言模型的精选列表）  
 https://github.com/GT-RIPL/Awesome-LLM-Robotics （机器人控制语言模型） 
