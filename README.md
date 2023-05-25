@@ -3,7 +3,7 @@ Nice AI Tools &amp; Research
 
 # ChatGPT
 https://chat.openai.com (OpenAI官网)  
-https://console.anthropic.com (Google的PaLLM Claude)
+https://console.anthropic.com (Google的PaLLM Claude)  
 https://github.com/lencx/ChatGPT (网页移植桌面应用)  
 https://platform.openai.com/docs/guides/chat (官方API)  
 https://github.com/Significant-Gravitas/Auto-GPT (可以上网的GPT应用 牛逼)  
