@@ -2,10 +2,11 @@
 Nice AI Tools &amp; Research
 
 # ChatGPT
-https://chat.openai.com (OpenAI官网)  
+https://chat.openai.com (chatGPT)  
 https://console.anthropic.com (Claude)  
-https://github.com/lencx/ChatGPT (网页移植桌面应用)  
-https://platform.openai.com/docs/guides/chat (官方API)  
+https://chat.forefront.ai （chatGPT + Claude）  
+https://github.com/lencx/ChatGPT (chatGPT网页移植桌面应用)  
+https://platform.openai.com/docs/guides/chat (chatGPT官方API)  
 https://github.com/Daiyimo/Access-chatGPT-in-Siri (Siri + ChatGPT)  
 https://www.microsoft.com/en-us/research/group/autonomous-systems-group-robotics/articles/chatgpt-for-robotics/ (ChatGPT for Robotics)  
 https://github.com/f/awesome-chatgpt-prompts (Prompts)  
